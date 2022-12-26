@@ -1,3 +1,2 @@
-wait(10)
 game:GetService("Players").LocalPlayer.Backpack["Physics Gun"].Part.Transparency.Value = 1
 game:GetService("Players").LocalPlayer.Backpack["Physics Gun"].MeshPart.Transparency.Value = 1
